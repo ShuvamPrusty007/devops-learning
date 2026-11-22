@@ -1,0 +1,10 @@
+2026-11-19 09:00:01 INFO Application started
+2026-11-19 09:01:10 INFO Database connection successful
+2026-11-19 09:02:15 INFO User login successful
+2026-11-19 09:03:20 WARN High memory usage detected
+2026-11-19 09:04:30 ERROR Database connection timeout
+2026-11-19 09:05:10 INFO Retry attempt started
+2026-11-19 09:06:15 ERROR Payment service unavailable
+2026-11-19 09:07:20 INFO Payment service recovered
+2026-11-19 09:08:30 WARN Response time is high
+2026-11-19 09:09:45 INFO Application running normally
