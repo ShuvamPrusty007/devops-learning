@@ -23,3 +23,11 @@
 - Identify the previous stable version.
 - Follow the approved rollback procedure.
 - Verify application health after rollback.
+
+## Application Health Check
+
+- Check whether the application service is running.
+- Verify the application health endpoint.
+- Check recent application logs for errors.
+- Confirm database connectivity.
+- Verify that monitoring alerts are clear.
