@@ -1,0 +1,3 @@
+Application Name: Payment Service
+Application Status: Running
+Environment: Production
