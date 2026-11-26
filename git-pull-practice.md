@@ -1,0 +1,5 @@
+# Git Pull Practice
+
+This file was created directly on GitHub.
+
+I am learning how git fetch and git pull work.
